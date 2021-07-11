@@ -1,0 +1,13 @@
+My name is sahnawaz alam
+My name is Alam Bhai
+
+
+
+
+//  if(vehicle=="bus"){
+    //        cout<<"Pls transfer the money: ";
+    //        cin>>money;
+    //        if(money!=500){
+    //            cout<<"Sorry pls pay the full Amount!"<<endl;
+    //        }
+    //  }
